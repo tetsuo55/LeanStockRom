@@ -1,0 +1,9 @@
+######################## Customized property values #########################
+persist.ro.ril.sms_sync_sending=1
+ro.nfc.on.default=true
+ro.product.locale.language=nl
+ro.product.locale.region=NL
+ro.telephony.default_network=9
+ro.cst.prm=1270-8442:R6E
+#############################################################################
+
